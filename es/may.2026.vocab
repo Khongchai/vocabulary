@@ -7,59 +7,30 @@
 | Tmr focus on conversations that use these words.
 > (an) yo, estudiar, apprender, el idioma, `buenos días`, `Buenas tardes`, tarde, Buenas noches, ¿Cómo estás?, muy bien, mucho gusto, excelente, ¡hasta luego!, `adiós`, `también`, `hoy`
 Yo estudio español porque me gusta aprender idiomas.
-```
-Persona 1:
+
+"""
 ¡Buenos días!
-
-Persona 2:
 ¡Buenos días! ¿Cómo estás?
-
-Persona 1:
 Muy bien, gracias. ¿Y tú?
-
-Persona 2:
 Muy bien también. Mucho gusto.
-
-Persona 1:
 Mucho gusto. Yo estudio español porque me gusta aprender idiomas.
-
-Persona 2:
 ¡Excelente! Yo también estudio el idioma español.
-
-Persona 1:
 Me gusta aprender idiomas nuevos.
-
-Persona 2:
 Sí, aprender un idioma es muy interesante.
-
 Más tarde...
-
-Persona 1:
 ¡Buenas tardes!
-
-Persona 2:
 ¡Buenas tardes! ¿Cómo estás ahora?
-
-Persona 1:
 Muy bien. Estudio español todos los días.
-
-Persona 2:
 ¡Excelente!
-
 Por la noche...
-
-Persona 1:
 Buenas noches.
-
-Persona 2:
 Buenas noches. ¡Hasta luego!
-
-Persona 1:
 Adiós.
-```
+"""
+
 12/05/2026
 | For tomorrow, try to see if you can have a monologue.
-> (an) segundo/a, la vez, mi/-s, creer, devertido/a, esperar, verte, estoy, el día, Qué bien, todavia, tomar, el tiempo, difícil, a veces, quieres, viajar,hablar
+> (an) segundo/a, la vez, mi/-s, creer, devertido/a, esperar, verte, estoy, el día, Qué bien, todavia, tomar, el tiempo, difícil, a veces, quieres, viajar, hablar, pensar
 >> (an) `Buenas tardes`(4), adiós(5), tarde(4), Buenas noches(5), ¿Cómo estás?(5), muy bien(5), buenos días(4), el idioma(5), yo(5), ¡hasta luego!(3), excelente(5), hoy(0), también(5), mucho gusto(0), apprender(5), estudiar(5)
 Hoy aprendo español por secunda vez.
 """
@@ -75,12 +46,11 @@ Gracias, Todavia aprendo lentamente.
 Es normal. Aprender un idioma toma tiempo.
 Crees que el español es difícil?
 A veces sí, pero creo que es muy divertido.
+Yo también creo que es muy divertido.
 Por qué quieres aprender español?
 Porque quiero viajar y hablar con más personas.
-
-
 """
-
+13/05/2026
 | for tomorrow below
 Good idea. Do you practice every day?
 
