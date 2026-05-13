@@ -44,5 +44,9 @@ The [thing here] is for elevenlabs. What I'm gonna do is create myself a virtual
 
 4. Speak with it some more in Spanish (this should be the longest).
 
+# Ok Group 2
+
+Like group 1 but just do it against words from yesterday (no new words, or very little).
+
 # Backlog
 - Quiero aprender español. Soy principiante, hablemos español.
