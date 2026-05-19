@@ -1,0 +1,1 @@
+Here are some stuff I have learned so far. Each word learned reviewed are suffixed with a score according to the supermemo algorithm. Quizz me on the words based on the score given. Give more emphasis to words that have lower scores. Ask me to build sentences, have some conversations with me, etc.
