@@ -34,6 +34,8 @@ The [thing here] is for elevenlabs. What I'm gonna do is create myself a virtual
 
 10. Don't look up shit all the time when having conversations.
 
+11. Convey concepts with A1 words.
+
 # OK Group 1
 
 1. Review words from yesterday
@@ -44,9 +46,15 @@ The [thing here] is for elevenlabs. What I'm gonna do is create myself a virtual
 
 4. Speak with it some more in Spanish (this should be the longest).
 
+5. Ask it to give target words.
+
 # Ok Group 2
 
 Like group 1 but just do it against words from yesterday (no new words, or very little).
+
+# Ok Group 3
+
+Given difficult concepts. Convey them simply in A1 (or using words you already know. nothing else)
 
 # Backlog
 - Quiero aprender español. Soy principiante, hablemos español.
