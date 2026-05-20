@@ -1,5 +1,8 @@
 # 20/05/2026
-Get these connectors, bruh.
+21/05/2026
+- [ ] `ser vs estar`
+
+- [ ] Get these connectors, bruh.
 
 AI Explanations for why
 
@@ -131,7 +134,9 @@ no entiendo
 puedes repetir?
 cómo se dice...?
 
+
 # 31/05/2026
+**Probably have to move**
 - [ ] take A1 exam.
 
 # 28/06/2026
